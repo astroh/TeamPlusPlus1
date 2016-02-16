@@ -8,7 +8,9 @@
 
 import UIKit
 
-class PhotoViewController: UIViewController {
+class ProfileViewController: UIViewController {
+    
+    
     @IBOutlet weak var menuButton:UIBarButtonItem!
 
     override func viewDidLoad() {
