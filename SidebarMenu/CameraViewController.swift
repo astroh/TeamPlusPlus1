@@ -13,6 +13,8 @@ import AVFoundation
 class CameraViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     
+    
+    @IBOutlet var navigationBar: UINavigationItem!
     @IBOutlet var menuButton: UIBarButtonItem!
     @IBOutlet var cameraView: UIView!
     
@@ -29,7 +31,8 @@ class CameraViewController: UIViewController, UIImagePickerControllerDelegate, U
             menuButton.action = "revealToggle:"
             view.addGestureRecognizer(self.revealViewController().panGestureRecognizer())
 
-        } //end if revealviewcontroller
+        } // end revealViewControllers
+        
         // Do any additional setup after loading the view
         
     } // end viewDidLoad

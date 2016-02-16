@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F47029EF1A7F27DB00E30A3C"
-               BuildableName = "SidebarMenu.app"
-               BlueprintName = "SidebarMenu"
+               BuildableName = "TeamPlusPlus1.app"
+               BlueprintName = "TeamPlusPlus1"
                ReferencedContainer = "container:TeamPlusPlus1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,7 +34,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F4702A041A7F27DC00E30A3C"
                BuildableName = "SidebarMenuTeamPlusPlus1ests.xctest"
-               BlueprintName = "SidebarMenuTeamPlusPlus1ests"
+               BlueprintName = "TeamPlusPlus1Tests"
                ReferencedContainer = "container:TeamPlusPlus1.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F47029EF1A7F27DB00E30A3C"
-            BuildableName = "SidebarMenu.app"
-            BlueprintName = "SidebarMenu"
+            BuildableName = "TeamPlusPlus1.app"
+            BlueprintName = "TeamPlusPlus1"
             ReferencedContainer = "container:TeamPlusPlus1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F47029EF1A7F27DB00E30A3C"
-            BuildableName = "SidebarMenu.app"
-            BlueprintName = "SidebarMenu"
+            BuildableName = "TeamPlusPlus1.app"
+            BlueprintName = "TeamPlusPlus1"
             ReferencedContainer = "container:TeamPlusPlus1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -85,8 +85,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F47029EF1A7F27DB00E30A3C"
-            BuildableName = "SidebarMenu.app"
-            BlueprintName = "SidebarMenu"
+            BuildableName = "TeamPlusPlus1.app"
+            BlueprintName = "TeamPlusPlus1"
             ReferencedContainer = "container:TeamPlusPlus1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

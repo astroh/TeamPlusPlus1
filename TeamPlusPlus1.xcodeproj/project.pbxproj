@@ -17,7 +17,7 @@
 		F4702A161A7F342F00E30A3C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4702A151A7F342F00E30A3C /* MapKit.framework */; };
 		F4702A181A7F351C00E30A3C /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4702A171A7F351C00E30A3C /* MenuController.swift */; };
 		F491E7531A7F7DF20026528E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491E7521A7F7DF20026528E /* MapViewController.swift */; };
-		F491E7551A7F7E010026528E /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491E7541A7F7E010026528E /* PhotoViewController.swift */; };
+		F491E7551A7F7E010026528E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491E7541A7F7E010026528E /* ProfileViewController.swift */; };
 		F4D750181BD38F0C009E1003 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4D750171BD38F0C009E1003 /* SWRevealViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +34,7 @@
 /* Begin PBXFileReference section */
 		49F84EE81C7371860012DFA5 /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpg; sourceTree = SOURCE_ROOT; };
 		49F84EEA1C7372380012DFA5 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
-		F47029F01A7F27DB00E30A3C /* SidebarMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SidebarMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F47029F01A7F27DB00E30A3C /* TeamPlusPlus1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeamPlusPlus1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F47029F41A7F27DB00E30A3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F47029F51A7F27DB00E30A3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F47029FA1A7F27DB00E30A3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		F4702A151A7F342F00E30A3C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		F4702A171A7F351C00E30A3C /* MenuController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		F491E7521A7F7DF20026528E /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		F491E7541A7F7E010026528E /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		F491E7541A7F7E010026528E /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		F4D750151BD38F0C009E1003 /* SidebarMenu-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SidebarMenu-Bridging-Header.h"; sourceTree = "<group>"; };
 		F4D750161BD38F0C009E1003 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		F4D750171BD38F0C009E1003 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		F47029F11A7F27DB00E30A3C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F47029F01A7F27DB00E30A3C /* SidebarMenu.app */,
+				F47029F01A7F27DB00E30A3C /* TeamPlusPlus1.app */,
 				F4702A051A7F27DC00E30A3C /* SidebarMenuTeamPlusPlus1ests.xctest */,
 			);
 			name = Products;
@@ -102,7 +102,7 @@
 				49F84EEA1C7372380012DFA5 /* CameraViewController.swift */,
 				F4702A171A7F351C00E30A3C /* MenuController.swift */,
 				F491E7521A7F7DF20026528E /* MapViewController.swift */,
-				F491E7541A7F7E010026528E /* PhotoViewController.swift */,
+				F491E7541A7F7E010026528E /* ProfileViewController.swift */,
 				49F84EE81C7371860012DFA5 /* logo.jpg */,
 			);
 			name = TeamPlusPlus1;
@@ -148,9 +148,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F47029EF1A7F27DB00E30A3C /* SidebarMenu */ = {
+		F47029EF1A7F27DB00E30A3C /* TeamPlusPlus1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4702A0F1A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "SidebarMenu" */;
+			buildConfigurationList = F4702A0F1A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "TeamPlusPlus1" */;
 			buildPhases = (
 				F47029EC1A7F27DB00E30A3C /* Sources */,
 				F47029ED1A7F27DB00E30A3C /* Frameworks */,
@@ -160,14 +160,14 @@
 			);
 			dependencies = (
 			);
-			name = SidebarMenu;
+			name = TeamPlusPlus1;
 			productName = SidebarMenu;
-			productReference = F47029F01A7F27DB00E30A3C /* SidebarMenu.app */;
+			productReference = F47029F01A7F27DB00E30A3C /* TeamPlusPlus1.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F4702A041A7F27DC00E30A3C /* SidebarMenuTeamPlusPlus1ests */ = {
+		F4702A041A7F27DC00E30A3C /* TeamPlusPlus1Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4702A121A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "SidebarMenuTeamPlusPlus1ests" */;
+			buildConfigurationList = F4702A121A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "TeamPlusPlus1Tests" */;
 			buildPhases = (
 				F4702A011A7F27DC00E30A3C /* Sources */,
 				F4702A021A7F27DC00E30A3C /* Frameworks */,
@@ -178,7 +178,7 @@
 			dependencies = (
 				F4702A071A7F27DC00E30A3C /* PBXTargetDependency */,
 			);
-			name = SidebarMenuTeamPlusPlus1ests;
+			name = TeamPlusPlus1Tests;
 			productName = SidebarMenuTests;
 			productReference = F4702A051A7F27DC00E30A3C /* SidebarMenuTeamPlusPlus1ests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -221,8 +221,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F47029EF1A7F27DB00E30A3C /* SidebarMenu */,
-				F4702A041A7F27DC00E30A3C /* SidebarMenuTeamPlusPlus1ests */,
+				F47029EF1A7F27DB00E30A3C /* TeamPlusPlus1 */,
+				F4702A041A7F27DC00E30A3C /* TeamPlusPlus1Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 				F47029F61A7F27DB00E30A3C /* AppDelegate.swift in Sources */,
 				F491E7531A7F7DF20026528E /* MapViewController.swift in Sources */,
 				49F84EEB1C7372380012DFA5 /* CameraViewController.swift in Sources */,
-				F491E7551A7F7E010026528E /* PhotoViewController.swift in Sources */,
+				F491E7551A7F7E010026528E /* ProfileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +275,7 @@
 /* Begin PBXTargetDependency section */
 		F4702A071A7F27DC00E30A3C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F47029EF1A7F27DB00E30A3C /* SidebarMenu */;
+			target = F47029EF1A7F27DB00E30A3C /* TeamPlusPlus1 */;
 			targetProxy = F4702A061A7F27DC00E30A3C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -455,7 +455,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4702A0F1A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "SidebarMenu" */ = {
+		F4702A0F1A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "TeamPlusPlus1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4702A101A7F27DC00E30A3C /* Debug */,
@@ -464,7 +464,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4702A121A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "SidebarMenuTeamPlusPlus1ests" */ = {
+		F4702A121A7F27DC00E30A3C /* Build configuration list for PBXNativeTarget "TeamPlusPlus1Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4702A131A7F27DC00E30A3C /* Debug */,
