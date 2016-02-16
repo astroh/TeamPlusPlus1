@@ -117,16 +117,16 @@
 		F47029F21A7F27DB00E30A3C /* TeamPlusPlus1 */ = {
 			isa = PBXGroup;
 			children = (
+				F47029FC1A7F27DB00E30A3C /* Images.xcassets */,
+				F47029F31A7F27DB00E30A3C /* Supporting Files */,
 				F4D750141BD38E56009E1003 /* SWRevealViewController */,
 				F47029F51A7F27DB00E30A3C /* AppDelegate.swift */,
 				F47029F91A7F27DB00E30A3C /* Main.storyboard */,
-				F47029FC1A7F27DB00E30A3C /* Images.xcassets */,
-				F47029FE1A7F27DB00E30A3C /* LaunchScreen.xib */,
-				F47029F31A7F27DB00E30A3C /* Supporting Files */,
 				49F84EEA1C7372380012DFA5 /* CameraViewController.swift */,
 				F4702A171A7F351C00E30A3C /* MenuController.swift */,
 				F491E7521A7F7DF20026528E /* MapViewController.swift */,
 				F491E7541A7F7E010026528E /* ProfileViewController.swift */,
+				F47029FE1A7F27DB00E30A3C /* LaunchScreen.xib */,
 				49F84EE81C7371860012DFA5 /* logo.jpg */,
 			);
 			name = TeamPlusPlus1;
