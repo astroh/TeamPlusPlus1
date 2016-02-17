@@ -291,7 +291,7 @@
         <!--Profile-->
         <scene sceneID="yCp-Wv-509">
             <objects>
-                <viewController id="sE8-Cy-yWP" customClass="ProfileViewController" sceneMemberID="viewController">
+                <viewController id="sE8-Cy-yWP" customClass="ProfileViewController" customModule="TeamPlusPlus1" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="IPC-hk-0Qs"/>
                         <viewControllerLayoutGuide type="bottom" id="VBi-dM-ohh"/>
@@ -351,7 +351,11 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="M9g-Pf-VqC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1764.5" y="894.5"/>
+=======
+            <point key="canvasLocation" x="1765" y="780"/>
+>>>>>>> parent of 38868d6... Profile fix
         </scene>
         <!--Menu Controller-->
         <scene sceneID="WPB-H1-2OU">
@@ -521,6 +525,6 @@
         <image name="tag" width="1024" height="1024"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="foL-zu-uHU"/>
+        <segue reference="tWZ-CD-OTO"/>
     </inferredMetricsTieBreakers>
 </document>
