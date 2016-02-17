@@ -12,6 +12,8 @@ import AVFoundation
 
 class CameraViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
+    
+    
     @IBOutlet var navigationBar: UINavigationItem!
     @IBOutlet var menuButton: UIBarButtonItem!
     @IBOutlet var cameraView: UIView!
