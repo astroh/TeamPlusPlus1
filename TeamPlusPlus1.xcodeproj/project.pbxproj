@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		49F84EE91C7371860012DFA5 /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49F84EE81C7371860012DFA5 /* logo.jpg */; };
-		49F84EEB1C7372380012DFA5 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F84EEA1C7372380012DFA5 /* CameraViewController.swift */; };
 		9B15B9CB6A2861B2B8F33C6B /* libPods-SidebarMenu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AB22CE0EA7B76F7AC5ECB65 /* libPods-SidebarMenu.a */; };
 		C25783E61C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780431C739BBB00808FBE /* AppDelegate.swift */; };
 		C25783E71C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780441C739BBB00808FBE /* LaunchScreen.xib */; };
@@ -19,15 +18,9 @@
 		C25783EC1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257804B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25783ED1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257804C1C739BBB00808FBE /* MenuController.swift */; };
 		C25783EE1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257804D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25783EF1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257804F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25783F01C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780501C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25783F11C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780521C739BBB00808FBE /* Main.storyboard */; };
-		C25783F21C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780541C739BBB00808FBE /* CameraViewController.swift */; };
-		C25783F31C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780551C739BBB00808FBE /* Images.xcassets */; };
 		C25783F41C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780561C739BBB00808FBE /* Info.plist */; };
-		C25783F51C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780571C739BBB00808FBE /* MapViewController.swift */; };
-		C25783F61C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780581C739BBB00808FBE /* MenuController.swift */; };
-		C25783F71C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780591C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25783F81C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257805B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25783F91C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257805C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25783FA1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257805E1C739BBB00808FBE /* Main.storyboard */; };
@@ -37,15 +30,10 @@
 		C25783FE1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780631C739BBB00808FBE /* MapViewController.swift */; };
 		C25783FF1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780641C739BBB00808FBE /* MenuController.swift */; };
 		C25784001C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780651C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784011C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780671C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784021C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780681C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784031C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257806A1C739BBB00808FBE /* Main.storyboard */; };
-		C25784041C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257806C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784051C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257806D1C739BBB00808FBE /* Images.xcassets */; };
 		C25784061C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257806E1C739BBB00808FBE /* Info.plist */; };
-		C25784071C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257806F1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784081C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780701C739BBB00808FBE /* MenuController.swift */; };
-		C25784091C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780711C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257840A1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780731C739BBB00808FBE /* AppDelegate.swift */; };
 		C257840B1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780741C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257840C1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780761C739BBB00808FBE /* Main.storyboard */; };
@@ -55,15 +43,9 @@
 		C25784101C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257807B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784111C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257807C1C739BBB00808FBE /* MenuController.swift */; };
 		C25784121C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257807D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784131C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257807F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784141C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780801C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784151C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780821C739BBB00808FBE /* Main.storyboard */; };
-		C25784161C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780841C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784171C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780851C739BBB00808FBE /* Images.xcassets */; };
 		C25784181C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780861C739BBB00808FBE /* Info.plist */; };
-		C25784191C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780871C739BBB00808FBE /* MapViewController.swift */; };
-		C257841A1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780881C739BBB00808FBE /* MenuController.swift */; };
-		C257841B1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780891C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257841C1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257808B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C257841D1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257808C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257841E1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257808E1C739BBB00808FBE /* Main.storyboard */; };
@@ -73,15 +55,9 @@
 		C25784221C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780931C739BBB00808FBE /* MapViewController.swift */; };
 		C25784231C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780941C739BBB00808FBE /* MenuController.swift */; };
 		C25784241C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780951C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784251C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780971C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784261C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780981C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784271C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257809A1C739BBB00808FBE /* Main.storyboard */; };
-		C25784281C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257809C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784291C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257809D1C739BBB00808FBE /* Images.xcassets */; };
 		C257842A1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257809E1C739BBB00808FBE /* Info.plist */; };
-		C257842B1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257809F1C739BBB00808FBE /* MapViewController.swift */; };
-		C257842C1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780A01C739BBB00808FBE /* MenuController.swift */; };
-		C257842D1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780A11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257842E1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780A31C739BBB00808FBE /* AppDelegate.swift */; };
 		C257842F1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780A41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784301C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780A61C739BBB00808FBE /* Main.storyboard */; };
@@ -91,15 +67,9 @@
 		C25784341C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780AB1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784351C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780AC1C739BBB00808FBE /* MenuController.swift */; };
 		C25784361C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780AD1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784371C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780AF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784381C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780B01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784391C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780B21C739BBB00808FBE /* Main.storyboard */; };
-		C257843A1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780B41C739BBB00808FBE /* CameraViewController.swift */; };
-		C257843B1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780B51C739BBB00808FBE /* Images.xcassets */; };
 		C257843C1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780B61C739BBB00808FBE /* Info.plist */; };
-		C257843D1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780B71C739BBB00808FBE /* MapViewController.swift */; };
-		C257843E1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780B81C739BBB00808FBE /* MenuController.swift */; };
-		C257843F1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780B91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784401C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780BB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784411C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780BC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784421C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780BE1C739BBB00808FBE /* Main.storyboard */; };
@@ -109,15 +79,9 @@
 		C25784461C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780C31C739BBB00808FBE /* MapViewController.swift */; };
 		C25784471C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780C41C739BBB00808FBE /* MenuController.swift */; };
 		C25784481C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780C51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784491C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780C71C739BBB00808FBE /* AppDelegate.swift */; };
 		C257844A1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780C81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257844B1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780CA1C739BBB00808FBE /* Main.storyboard */; };
-		C257844C1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780CC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C257844D1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780CD1C739BBB00808FBE /* Images.xcassets */; };
 		C257844E1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780CE1C739BBB00808FBE /* Info.plist */; };
-		C257844F1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780CF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25784501C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780D01C739BBB00808FBE /* MenuController.swift */; };
-		C25784511C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780D11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784521C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780D31C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784531C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780D41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784541C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780D61C739BBB00808FBE /* Main.storyboard */; };
@@ -127,15 +91,9 @@
 		C25784581C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780DB1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784591C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780DC1C739BBB00808FBE /* MenuController.swift */; };
 		C257845A1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780DD1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257845B1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780DF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C257845C1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780E01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257845D1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780E21C739BBB00808FBE /* Main.storyboard */; };
-		C257845E1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780E41C739BBB00808FBE /* CameraViewController.swift */; };
-		C257845F1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780E51C739BBB00808FBE /* Images.xcassets */; };
 		C25784601C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780E61C739BBB00808FBE /* Info.plist */; };
-		C25784611C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780E71C739BBB00808FBE /* MapViewController.swift */; };
-		C25784621C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780E81C739BBB00808FBE /* MenuController.swift */; };
-		C25784631C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780E91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784641C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780EB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784651C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780EC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784661C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780EE1C739BBB00808FBE /* Main.storyboard */; };
@@ -145,15 +103,9 @@
 		C257846A1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780F31C739BBB00808FBE /* MapViewController.swift */; };
 		C257846B1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780F41C739BBB00808FBE /* MenuController.swift */; };
 		C257846C1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780F51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257846D1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780F71C739BBB00808FBE /* AppDelegate.swift */; };
 		C257846E1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25780F81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257846F1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25780FA1C739BBB00808FBE /* Main.storyboard */; };
-		C25784701C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780FC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784711C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25780FD1C739BBB00808FBE /* Images.xcassets */; };
 		C25784721C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25780FE1C739BBB00808FBE /* Info.plist */; };
-		C25784731C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25780FF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25784741C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781001C739BBB00808FBE /* MenuController.swift */; };
-		C25784751C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781011C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784761C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781031C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784771C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781041C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784781C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781061C739BBB00808FBE /* Main.storyboard */; };
@@ -163,15 +115,9 @@
 		C257847C1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257810B1C739BBB00808FBE /* MapViewController.swift */; };
 		C257847D1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257810C1C739BBB00808FBE /* MenuController.swift */; };
 		C257847E1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257810D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257847F1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257810F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784801C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781101C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784811C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781121C739BBB00808FBE /* Main.storyboard */; };
-		C25784821C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781141C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784831C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781151C739BBB00808FBE /* Images.xcassets */; };
 		C25784841C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781161C739BBB00808FBE /* Info.plist */; };
-		C25784851C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781171C739BBB00808FBE /* MapViewController.swift */; };
-		C25784861C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781181C739BBB00808FBE /* MenuController.swift */; };
-		C25784871C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781191C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784881C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257811B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784891C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257811C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257848A1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257811E1C739BBB00808FBE /* Main.storyboard */; };
@@ -181,15 +127,9 @@
 		C257848E1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781231C739BBB00808FBE /* MapViewController.swift */; };
 		C257848F1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781241C739BBB00808FBE /* MenuController.swift */; };
 		C25784901C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781251C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784911C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781271C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784921C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781281C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784931C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257812A1C739BBB00808FBE /* Main.storyboard */; };
-		C25784941C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257812C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784951C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257812D1C739BBB00808FBE /* Images.xcassets */; };
 		C25784961C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257812E1C739BBB00808FBE /* Info.plist */; };
-		C25784971C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257812F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25784981C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781301C739BBB00808FBE /* MenuController.swift */; };
-		C25784991C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781311C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257849A1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781331C739BBB00808FBE /* AppDelegate.swift */; };
 		C257849B1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781341C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257849C1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781361C739BBB00808FBE /* Main.storyboard */; };
@@ -199,15 +139,10 @@
 		C25784A01C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257813B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784A11C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257813C1C739BBB00808FBE /* MenuController.swift */; };
 		C25784A21C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257813D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784A31C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257813F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784A41C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781401C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784A51C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781421C739BBB00808FBE /* Main.storyboard */; };
-		C25784A61C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781441C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784A71C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781451C739BBB00808FBE /* Images.xcassets */; };
 		C25784A81C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781461C739BBB00808FBE /* Info.plist */; };
 		C25784A91C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781471C739BBB00808FBE /* MapViewController.swift */; };
-		C25784AA1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781481C739BBB00808FBE /* MenuController.swift */; };
-		C25784AB1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781491C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784AC1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257814B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784AD1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257814C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784AE1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257814E1C739BBB00808FBE /* Main.storyboard */; };
@@ -217,15 +152,9 @@
 		C25784B21C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781531C739BBB00808FBE /* MapViewController.swift */; };
 		C25784B31C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781541C739BBB00808FBE /* MenuController.swift */; };
 		C25784B41C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781551C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784B51C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781571C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784B61C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781581C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784B71C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257815A1C739BBB00808FBE /* Main.storyboard */; };
-		C25784B81C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257815C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784B91C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257815D1C739BBB00808FBE /* Images.xcassets */; };
 		C25784BA1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257815E1C739BBB00808FBE /* Info.plist */; };
-		C25784BB1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257815F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25784BC1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781601C739BBB00808FBE /* MenuController.swift */; };
-		C25784BD1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781611C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784BE1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781631C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784BF1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781641C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784C01C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781661C739BBB00808FBE /* Main.storyboard */; };
@@ -238,12 +167,8 @@
 		C25784C71C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257816F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784C81C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781701C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784C91C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781721C739BBB00808FBE /* Main.storyboard */; };
-		C25784CA1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781741C739BBB00808FBE /* CameraViewController.swift */; };
 		C25784CB1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781751C739BBB00808FBE /* Images.xcassets */; };
 		C25784CC1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781761C739BBB00808FBE /* Info.plist */; };
-		C25784CD1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781771C739BBB00808FBE /* MapViewController.swift */; };
-		C25784CE1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781781C739BBB00808FBE /* MenuController.swift */; };
-		C25784CF1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781791C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784D01C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257817B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784D11C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257817C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784D21C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257817E1C739BBB00808FBE /* Main.storyboard */; };
@@ -253,15 +178,9 @@
 		C25784D61C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781831C739BBB00808FBE /* MapViewController.swift */; };
 		C25784D71C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781841C739BBB00808FBE /* MenuController.swift */; };
 		C25784D81C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781851C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784D91C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781871C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784DA1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781881C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784DB1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257818A1C739BBB00808FBE /* Main.storyboard */; };
-		C25784DC1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257818C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784DD1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257818D1C739BBB00808FBE /* Images.xcassets */; };
 		C25784DE1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257818E1C739BBB00808FBE /* Info.plist */; };
-		C25784DF1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257818F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25784E01C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781901C739BBB00808FBE /* MenuController.swift */; };
-		C25784E11C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781911C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784E21C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781931C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784E31C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781941C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784E41C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781961C739BBB00808FBE /* Main.storyboard */; };
@@ -271,15 +190,9 @@
 		C25784E81C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257819B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25784E91C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257819C1C739BBB00808FBE /* MenuController.swift */; };
 		C25784EA1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257819D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784EB1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257819F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784EC1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781A01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784ED1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781A21C739BBB00808FBE /* Main.storyboard */; };
-		C25784EE1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781A41C739BBB00808FBE /* CameraViewController.swift */; };
-		C25784EF1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781A51C739BBB00808FBE /* Images.xcassets */; };
 		C25784F01C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781A61C739BBB00808FBE /* Info.plist */; };
-		C25784F11C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781A71C739BBB00808FBE /* MapViewController.swift */; };
-		C25784F21C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781A81C739BBB00808FBE /* MenuController.swift */; };
-		C25784F31C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781A91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25784F41C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781AB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784F51C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781AC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784F61C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781AE1C739BBB00808FBE /* Main.storyboard */; };
@@ -289,15 +202,10 @@
 		C25784FA1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781B31C739BBB00808FBE /* MapViewController.swift */; };
 		C25784FB1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781B41C739BBB00808FBE /* MenuController.swift */; };
 		C25784FC1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781B51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25784FD1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781B71C739BBB00808FBE /* AppDelegate.swift */; };
 		C25784FE1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781B81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25784FF1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781BA1C739BBB00808FBE /* Main.storyboard */; };
 		C25785001C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781BC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785011C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781BD1C739BBB00808FBE /* Images.xcassets */; };
 		C25785021C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781BE1C739BBB00808FBE /* Info.plist */; };
-		C25785031C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781BF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785041C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781C01C739BBB00808FBE /* MenuController.swift */; };
-		C25785051C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781C11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785061C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781C31C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785071C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781C41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785081C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781C61C739BBB00808FBE /* Main.storyboard */; };
@@ -307,15 +215,9 @@
 		C257850C1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781CB1C739BBB00808FBE /* MapViewController.swift */; };
 		C257850D1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781CC1C739BBB00808FBE /* MenuController.swift */; };
 		C257850E1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781CD1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257850F1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781CF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785101C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781D01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785111C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781D21C739BBB00808FBE /* Main.storyboard */; };
-		C25785121C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781D41C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785131C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781D51C739BBB00808FBE /* Images.xcassets */; };
 		C25785141C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781D61C739BBB00808FBE /* Info.plist */; };
-		C25785151C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781D71C739BBB00808FBE /* MapViewController.swift */; };
-		C25785161C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781D81C739BBB00808FBE /* MenuController.swift */; };
-		C25785171C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781D91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785181C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781DB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785191C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781DC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257851A1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781DE1C739BBB00808FBE /* Main.storyboard */; };
@@ -325,15 +227,9 @@
 		C257851E1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781E31C739BBB00808FBE /* MapViewController.swift */; };
 		C257851F1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781E41C739BBB00808FBE /* MenuController.swift */; };
 		C25785201C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781E51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785211C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781E71C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785221C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781E81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785231C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781EA1C739BBB00808FBE /* Main.storyboard */; };
-		C25785241C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781EC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785251C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25781ED1C739BBB00808FBE /* Images.xcassets */; };
 		C25785261C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25781EE1C739BBB00808FBE /* Info.plist */; };
-		C25785271C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781EF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785281C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781F01C739BBB00808FBE /* MenuController.swift */; };
-		C25785291C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781F11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257852A1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781F31C739BBB00808FBE /* AppDelegate.swift */; };
 		C257852B1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25781F41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257852C1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25781F61C739BBB00808FBE /* Main.storyboard */; };
@@ -343,15 +239,9 @@
 		C25785301C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781FB1C739BBB00808FBE /* MapViewController.swift */; };
 		C25785311C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781FC1C739BBB00808FBE /* MenuController.swift */; };
 		C25785321C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781FD1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785331C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25781FF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785341C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782001C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785351C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782021C739BBB00808FBE /* Main.storyboard */; };
-		C25785361C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782041C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785371C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782051C739BBB00808FBE /* Images.xcassets */; };
 		C25785381C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782061C739BBB00808FBE /* Info.plist */; };
-		C25785391C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782071C739BBB00808FBE /* MapViewController.swift */; };
-		C257853A1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782081C739BBB00808FBE /* MenuController.swift */; };
-		C257853B1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782091C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257853C1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257820B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C257853D1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257820C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257853E1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257820E1C739BBB00808FBE /* Main.storyboard */; };
@@ -361,15 +251,9 @@
 		C25785421C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782131C739BBB00808FBE /* MapViewController.swift */; };
 		C25785431C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782141C739BBB00808FBE /* MenuController.swift */; };
 		C25785441C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782151C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785451C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782171C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785461C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782181C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785471C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257821A1C739BBB00808FBE /* Main.storyboard */; };
-		C25785481C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257821C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785491C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257821D1C739BBB00808FBE /* Images.xcassets */; };
 		C257854A1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257821E1C739BBB00808FBE /* Info.plist */; };
-		C257854B1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257821F1C739BBB00808FBE /* MapViewController.swift */; };
-		C257854C1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782201C739BBB00808FBE /* MenuController.swift */; };
-		C257854D1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782211C739BBB00808FBE /* ProfileViewController.swift */; };
 		C257854E1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782231C739BBB00808FBE /* AppDelegate.swift */; };
 		C257854F1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782241C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785501C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782261C739BBB00808FBE /* Main.storyboard */; };
@@ -379,15 +263,9 @@
 		C25785541C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257822B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25785551C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257822C1C739BBB00808FBE /* MenuController.swift */; };
 		C25785561C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257822D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785571C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257822F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785581C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782301C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785591C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782321C739BBB00808FBE /* Main.storyboard */; };
-		C257855A1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782341C739BBB00808FBE /* CameraViewController.swift */; };
-		C257855B1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782351C739BBB00808FBE /* Images.xcassets */; };
 		C257855C1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782361C739BBB00808FBE /* Info.plist */; };
-		C257855D1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782371C739BBB00808FBE /* MapViewController.swift */; };
-		C257855E1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782381C739BBB00808FBE /* MenuController.swift */; };
-		C257855F1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782391C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785601C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257823B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785611C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257823C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785621C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257823E1C739BBB00808FBE /* Main.storyboard */; };
@@ -397,15 +275,9 @@
 		C25785661C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782431C739BBB00808FBE /* MapViewController.swift */; };
 		C25785671C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782441C739BBB00808FBE /* MenuController.swift */; };
 		C25785681C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782451C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785691C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782471C739BBB00808FBE /* AppDelegate.swift */; };
 		C257856A1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782481C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257856B1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257824A1C739BBB00808FBE /* Main.storyboard */; };
-		C257856C1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257824C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C257856D1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257824D1C739BBB00808FBE /* Images.xcassets */; };
 		C257856E1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257824E1C739BBB00808FBE /* Info.plist */; };
-		C257856F1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257824F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785701C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782501C739BBB00808FBE /* MenuController.swift */; };
-		C25785711C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782511C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785721C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782531C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785731C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782541C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785741C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782561C739BBB00808FBE /* Main.storyboard */; };
@@ -415,15 +287,9 @@
 		C25785781C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257825B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25785791C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257825C1C739BBB00808FBE /* MenuController.swift */; };
 		C257857A1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257825D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257857B1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257825F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C257857C1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782601C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257857D1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782621C739BBB00808FBE /* Main.storyboard */; };
-		C257857E1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782641C739BBB00808FBE /* CameraViewController.swift */; };
-		C257857F1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782651C739BBB00808FBE /* Images.xcassets */; };
 		C25785801C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782661C739BBB00808FBE /* Info.plist */; };
-		C25785811C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782671C739BBB00808FBE /* MapViewController.swift */; };
-		C25785821C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782681C739BBB00808FBE /* MenuController.swift */; };
-		C25785831C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782691C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785841C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257826B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785851C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257826C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785861C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257826E1C739BBB00808FBE /* Main.storyboard */; };
@@ -433,15 +299,9 @@
 		C257858A1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782731C739BBB00808FBE /* MapViewController.swift */; };
 		C257858B1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782741C739BBB00808FBE /* MenuController.swift */; };
 		C257858C1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782751C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257858D1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782771C739BBB00808FBE /* AppDelegate.swift */; };
 		C257858E1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782781C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257858F1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257827A1C739BBB00808FBE /* Main.storyboard */; };
-		C25785901C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257827C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785911C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257827D1C739BBB00808FBE /* Images.xcassets */; };
 		C25785921C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257827E1C739BBB00808FBE /* Info.plist */; };
-		C25785931C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257827F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785941C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782801C739BBB00808FBE /* MenuController.swift */; };
-		C25785951C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782811C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785961C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782831C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785971C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782841C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785981C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782861C739BBB00808FBE /* Main.storyboard */; };
@@ -451,14 +311,9 @@
 		C257859C1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257828B1C739BBB00808FBE /* MapViewController.swift */; };
 		C257859D1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257828C1C739BBB00808FBE /* MenuController.swift */; };
 		C257859E1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257828D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257859F1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257828F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785A01C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782901C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785A11C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782921C739BBB00808FBE /* Main.storyboard */; };
-		C25785A21C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782941C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785A31C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782951C739BBB00808FBE /* Images.xcassets */; };
 		C25785A41C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782961C739BBB00808FBE /* Info.plist */; };
-		C25785A51C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782971C739BBB00808FBE /* MapViewController.swift */; };
-		C25785A61C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782981C739BBB00808FBE /* MenuController.swift */; };
 		C25785A71C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782991C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785A81C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257829B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785A91C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257829C1C739BBB00808FBE /* LaunchScreen.xib */; };
@@ -469,15 +324,9 @@
 		C25785AE1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782A31C739BBB00808FBE /* MapViewController.swift */; };
 		C25785AF1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782A41C739BBB00808FBE /* MenuController.swift */; };
 		C25785B01C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782A51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785B11C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782A71C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785B21C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782A81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785B31C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782AA1C739BBB00808FBE /* Main.storyboard */; };
-		C25785B41C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782AC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785B51C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782AD1C739BBB00808FBE /* Images.xcassets */; };
 		C25785B61C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782AE1C739BBB00808FBE /* Info.plist */; };
-		C25785B71C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782AF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785B81C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782B01C739BBB00808FBE /* MenuController.swift */; };
-		C25785B91C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782B11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785BA1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782B31C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785BB1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782B41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785BC1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782B61C739BBB00808FBE /* Main.storyboard */; };
@@ -487,15 +336,9 @@
 		C25785C01C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782BB1C739BBB00808FBE /* MapViewController.swift */; };
 		C25785C11C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782BC1C739BBB00808FBE /* MenuController.swift */; };
 		C25785C21C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782BD1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785C31C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782BF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785C41C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782C01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785C51C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782C21C739BBB00808FBE /* Main.storyboard */; };
-		C25785C61C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782C41C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785C71C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782C51C739BBB00808FBE /* Images.xcassets */; };
 		C25785C81C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782C61C739BBB00808FBE /* Info.plist */; };
-		C25785C91C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782C71C739BBB00808FBE /* MapViewController.swift */; };
-		C25785CA1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782C81C739BBB00808FBE /* MenuController.swift */; };
-		C25785CB1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782C91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785CC1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782CB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785CD1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782CC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785CE1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782CE1C739BBB00808FBE /* Main.storyboard */; };
@@ -505,15 +348,9 @@
 		C25785D21C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782D31C739BBB00808FBE /* MapViewController.swift */; };
 		C25785D31C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782D41C739BBB00808FBE /* MenuController.swift */; };
 		C25785D41C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782D51C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785D51C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782D71C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785D61C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782D81C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785D71C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782DA1C739BBB00808FBE /* Main.storyboard */; };
-		C25785D81C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782DC1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785D91C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782DD1C739BBB00808FBE /* Images.xcassets */; };
 		C25785DA1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782DE1C739BBB00808FBE /* Info.plist */; };
-		C25785DB1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782DF1C739BBB00808FBE /* MapViewController.swift */; };
-		C25785DC1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782E01C739BBB00808FBE /* MenuController.swift */; };
-		C25785DD1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782E11C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785DE1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782E31C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785DF1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782E41C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785E01C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782E61C739BBB00808FBE /* Main.storyboard */; };
@@ -523,15 +360,9 @@
 		C25785E41C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782EB1C739BBB00808FBE /* MapViewController.swift */; };
 		C25785E51C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782EC1C739BBB00808FBE /* MenuController.swift */; };
 		C25785E61C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782ED1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785E71C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782EF1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785E81C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782F01C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785E91C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782F21C739BBB00808FBE /* Main.storyboard */; };
-		C25785EA1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782F41C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785EB1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25782F51C739BBB00808FBE /* Images.xcassets */; };
 		C25785EC1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25782F61C739BBB00808FBE /* Info.plist */; };
-		C25785ED1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782F71C739BBB00808FBE /* MapViewController.swift */; };
-		C25785EE1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782F81C739BBB00808FBE /* MenuController.swift */; };
-		C25785EF1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782F91C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25785F01C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25782FB1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785F11C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25782FC1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785F21C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25782FE1C739BBB00808FBE /* Main.storyboard */; };
@@ -541,15 +372,9 @@
 		C25785F61C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783031C739BBB00808FBE /* MapViewController.swift */; };
 		C25785F71C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783041C739BBB00808FBE /* MenuController.swift */; };
 		C25785F81C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783051C739BBB00808FBE /* ProfileViewController.swift */; };
-		C25785F91C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783071C739BBB00808FBE /* AppDelegate.swift */; };
 		C25785FA1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783081C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25785FB1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257830A1C739BBB00808FBE /* Main.storyboard */; };
-		C25785FC1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257830C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25785FD1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257830D1C739BBB00808FBE /* Images.xcassets */; };
 		C25785FE1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257830E1C739BBB00808FBE /* Info.plist */; };
-		C25785FF1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257830F1C739BBB00808FBE /* MapViewController.swift */; };
-		C25786001C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783101C739BBB00808FBE /* MenuController.swift */; };
-		C25786011C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783111C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25786021C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783131C739BBB00808FBE /* AppDelegate.swift */; };
 		C25786031C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783141C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25786041C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783161C739BBB00808FBE /* Main.storyboard */; };
@@ -559,15 +384,9 @@
 		C25786081C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257831B1C739BBB00808FBE /* MapViewController.swift */; };
 		C25786091C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257831C1C739BBB00808FBE /* MenuController.swift */; };
 		C257860A1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257831D1C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257860B1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257831F1C739BBB00808FBE /* AppDelegate.swift */; };
 		C257860C1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783201C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257860D1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783221C739BBB00808FBE /* Main.storyboard */; };
-		C257860E1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783241C739BBB00808FBE /* CameraViewController.swift */; };
-		C257860F1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783251C739BBB00808FBE /* Images.xcassets */; };
 		C25786101C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25783261C739BBB00808FBE /* Info.plist */; };
-		C25786111C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783271C739BBB00808FBE /* MapViewController.swift */; };
-		C25786121C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783281C739BBB00808FBE /* MenuController.swift */; };
-		C25786131C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783291C739BBB00808FBE /* ProfileViewController.swift */; };
 		C25786141C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257832B1C739BBB00808FBE /* AppDelegate.swift */; };
 		C25786151C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257832C1C739BBB00808FBE /* LaunchScreen.xib */; };
 		C25786161C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257832E1C739BBB00808FBE /* Main.storyboard */; };
@@ -577,15 +396,9 @@
 		C257861A1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783331C739BBB00808FBE /* MapViewController.swift */; };
 		C257861B1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783341C739BBB00808FBE /* MenuController.swift */; };
 		C257861C1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783351C739BBB00808FBE /* ProfileViewController.swift */; };
-		C257861D1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783371C739BBB00808FBE /* AppDelegate.swift */; };
 		C257861E1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783381C739BBB00808FBE /* LaunchScreen.xib */; };
 		C257861F1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257833A1C739BBB00808FBE /* Main.storyboard */; };
-		C25786201C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257833C1C739BBB00808FBE /* CameraViewController.swift */; };
-		C25786211C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257833D1C739BBB00808FBE /* Images.xcassets */; };
 		C25786221C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257833E1C739BBC00808FBE /* Info.plist */; };
-		C25786231C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257833F1C739BBC00808FBE /* MapViewController.swift */; };
-		C25786241C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783401C739BBC00808FBE /* MenuController.swift */; };
-		C25786251C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783411C739BBC00808FBE /* ProfileViewController.swift */; };
 		C25786261C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783431C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786271C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783441C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786281C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783461C739BBC00808FBE /* Main.storyboard */; };
@@ -595,15 +408,9 @@
 		C257862C1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257834B1C739BBC00808FBE /* MapViewController.swift */; };
 		C257862D1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257834C1C739BBC00808FBE /* MenuController.swift */; };
 		C257862E1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257834D1C739BBC00808FBE /* ProfileViewController.swift */; };
-		C257862F1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257834F1C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786301C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783501C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786311C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783521C739BBC00808FBE /* Main.storyboard */; };
-		C25786321C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783541C739BBC00808FBE /* CameraViewController.swift */; };
-		C25786331C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783551C739BBC00808FBE /* Images.xcassets */; };
 		C25786341C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25783561C739BBC00808FBE /* Info.plist */; };
-		C25786351C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783571C739BBC00808FBE /* MapViewController.swift */; };
-		C25786361C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783581C739BBC00808FBE /* MenuController.swift */; };
-		C25786371C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783591C739BBC00808FBE /* ProfileViewController.swift */; };
 		C25786381C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257835B1C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786391C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257835C1C739BBC00808FBE /* LaunchScreen.xib */; };
 		C257863A1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257835E1C739BBC00808FBE /* Main.storyboard */; };
@@ -613,15 +420,9 @@
 		C257863E1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783631C739BBC00808FBE /* MapViewController.swift */; };
 		C257863F1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783641C739BBC00808FBE /* MenuController.swift */; };
 		C25786401C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783651C739BBC00808FBE /* ProfileViewController.swift */; };
-		C25786411C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783671C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786421C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783681C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786431C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257836A1C739BBC00808FBE /* Main.storyboard */; };
-		C25786441C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257836C1C739BBC00808FBE /* CameraViewController.swift */; };
-		C25786451C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257836D1C739BBC00808FBE /* Images.xcassets */; };
 		C25786461C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257836E1C739BBC00808FBE /* Info.plist */; };
-		C25786471C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257836F1C739BBC00808FBE /* MapViewController.swift */; };
-		C25786481C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783701C739BBC00808FBE /* MenuController.swift */; };
-		C25786491C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783711C739BBC00808FBE /* ProfileViewController.swift */; };
 		C257864A1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783731C739BBC00808FBE /* AppDelegate.swift */; };
 		C257864B1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783741C739BBC00808FBE /* LaunchScreen.xib */; };
 		C257864C1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783761C739BBC00808FBE /* Main.storyboard */; };
@@ -631,15 +432,9 @@
 		C25786501C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257837B1C739BBC00808FBE /* MapViewController.swift */; };
 		C25786511C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257837C1C739BBC00808FBE /* MenuController.swift */; };
 		C25786521C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257837D1C739BBC00808FBE /* ProfileViewController.swift */; };
-		C25786531C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257837F1C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786541C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783801C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786551C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783821C739BBC00808FBE /* Main.storyboard */; };
-		C25786561C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783841C739BBC00808FBE /* CameraViewController.swift */; };
-		C25786571C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783851C739BBC00808FBE /* Images.xcassets */; };
 		C25786581C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25783861C739BBC00808FBE /* Info.plist */; };
-		C25786591C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783871C739BBC00808FBE /* MapViewController.swift */; };
-		C257865A1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783881C739BBC00808FBE /* MenuController.swift */; };
-		C257865B1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783891C739BBC00808FBE /* ProfileViewController.swift */; };
 		C257865C1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257838B1C739BBC00808FBE /* AppDelegate.swift */; };
 		C257865D1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C257838C1C739BBC00808FBE /* LaunchScreen.xib */; };
 		C257865E1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257838E1C739BBC00808FBE /* Main.storyboard */; };
@@ -649,15 +444,9 @@
 		C25786621C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783931C739BBC00808FBE /* MapViewController.swift */; };
 		C25786631C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783941C739BBC00808FBE /* MenuController.swift */; };
 		C25786641C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783951C739BBC00808FBE /* ProfileViewController.swift */; };
-		C25786651C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783971C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786661C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783981C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786671C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C257839A1C739BBC00808FBE /* Main.storyboard */; };
-		C25786681C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257839C1C739BBC00808FBE /* CameraViewController.swift */; };
-		C25786691C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C257839D1C739BBC00808FBE /* Images.xcassets */; };
 		C257866A1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C257839E1C739BBC00808FBE /* Info.plist */; };
-		C257866B1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C257839F1C739BBC00808FBE /* MapViewController.swift */; };
-		C257866C1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783A01C739BBC00808FBE /* MenuController.swift */; };
-		C257866D1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783A11C739BBC00808FBE /* ProfileViewController.swift */; };
 		C257866E1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783A31C739BBC00808FBE /* AppDelegate.swift */; };
 		C257866F1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783A41C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786701C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783A61C739BBC00808FBE /* Main.storyboard */; };
@@ -667,15 +456,9 @@
 		C25786741C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783AB1C739BBC00808FBE /* MapViewController.swift */; };
 		C25786751C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783AC1C739BBC00808FBE /* MenuController.swift */; };
 		C25786761C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783AD1C739BBC00808FBE /* ProfileViewController.swift */; };
-		C25786771C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783AF1C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786781C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783B01C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786791C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783B21C739BBC00808FBE /* Main.storyboard */; };
-		C257867A1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783B41C739BBC00808FBE /* CameraViewController.swift */; };
-		C257867B1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783B51C739BBC00808FBE /* Images.xcassets */; };
 		C257867C1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25783B61C739BBC00808FBE /* Info.plist */; };
-		C257867D1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783B71C739BBC00808FBE /* MapViewController.swift */; };
-		C257867E1C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783B81C739BBC00808FBE /* MenuController.swift */; };
-		C257867F1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783B91C739BBC00808FBE /* ProfileViewController.swift */; };
 		C25786801C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783BB1C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786811C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783BC1C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786821C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783BE1C739BBC00808FBE /* Main.storyboard */; };
@@ -685,15 +468,9 @@
 		C25786861C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783C31C739BBC00808FBE /* MapViewController.swift */; };
 		C25786871C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783C41C739BBC00808FBE /* MenuController.swift */; };
 		C25786881C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783C51C739BBC00808FBE /* ProfileViewController.swift */; };
-		C25786891C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783C71C739BBC00808FBE /* AppDelegate.swift */; };
 		C257868A1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783C81C739BBC00808FBE /* LaunchScreen.xib */; };
 		C257868B1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783CA1C739BBC00808FBE /* Main.storyboard */; };
-		C257868C1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783CC1C739BBC00808FBE /* CameraViewController.swift */; };
-		C257868D1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783CD1C739BBC00808FBE /* Images.xcassets */; };
 		C257868E1C739BBC00808FBE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C25783CE1C739BBC00808FBE /* Info.plist */; };
-		C257868F1C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783CF1C739BBC00808FBE /* MapViewController.swift */; };
-		C25786901C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783D01C739BBC00808FBE /* MenuController.swift */; };
-		C25786911C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783D11C739BBC00808FBE /* ProfileViewController.swift */; };
 		C25786921C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783D31C739BBC00808FBE /* AppDelegate.swift */; };
 		C25786931C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783D41C739BBC00808FBE /* LaunchScreen.xib */; };
 		C25786941C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783D61C739BBC00808FBE /* Main.storyboard */; };
@@ -703,20 +480,12 @@
 		C25786981C739BBC00808FBE /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783DB1C739BBC00808FBE /* MapViewController.swift */; };
 		C25786991C739BBC00808FBE /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783DC1C739BBC00808FBE /* MenuController.swift */; };
 		C257869A1C739BBC00808FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783DD1C739BBC00808FBE /* ProfileViewController.swift */; };
-		C257869B1C739BBC00808FBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783DF1C739BBC00808FBE /* AppDelegate.swift */; };
 		C257869C1C739BBC00808FBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C25783E01C739BBC00808FBE /* LaunchScreen.xib */; };
 		C257869D1C739BBC00808FBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25783E21C739BBC00808FBE /* Main.storyboard */; };
-		C257869E1C739BBC00808FBE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25783E41C739BBC00808FBE /* CameraViewController.swift */; };
-		C257869F1C739BBC00808FBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25783E51C739BBC00808FBE /* Images.xcassets */; };
-		F47029F61A7F27DB00E30A3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47029F51A7F27DB00E30A3C /* AppDelegate.swift */; };
 		F47029FB1A7F27DB00E30A3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F47029F91A7F27DB00E30A3C /* Main.storyboard */; };
-		F47029FD1A7F27DB00E30A3C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F47029FC1A7F27DB00E30A3C /* Images.xcassets */; };
 		F4702A001A7F27DC00E30A3C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F47029FE1A7F27DB00E30A3C /* LaunchScreen.xib */; };
 		F4702A0C1A7F27DC00E30A3C /* SidebarMenuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4702A0B1A7F27DC00E30A3C /* SidebarMenuTests.swift */; };
 		F4702A161A7F342F00E30A3C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4702A151A7F342F00E30A3C /* MapKit.framework */; };
-		F4702A181A7F351C00E30A3C /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4702A171A7F351C00E30A3C /* MenuController.swift */; };
-		F491E7531A7F7DF20026528E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491E7521A7F7DF20026528E /* MapViewController.swift */; };
-		F491E7551A7F7E010026528E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F491E7541A7F7E010026528E /* ProfileViewController.swift */; };
 		F4D750181BD38F0C009E1003 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4D750171BD38F0C009E1003 /* SWRevealViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -2935,7 +2704,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = AppCoda;
 				TargetAttributes = {
 					F47029EF1A7F27DB00E30A3C = {
@@ -2980,7 +2749,6 @@
 				C25785101C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785191C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784CB1C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25784DD1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25783FD1C739BBC00808FBE /* Info.plist in Resources */,
 				C25785221C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257844B1C739BBC00808FBE /* Main.storyboard in Resources */,
@@ -3007,7 +2775,6 @@
 				C25783F11C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784E71C739BBC00808FBE /* Info.plist in Resources */,
 				C257856A1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25786451C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257858F1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784021C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785B31C739BBC00808FBE /* Main.storyboard in Resources */,
@@ -3026,20 +2793,16 @@
 				C25784DE1C739BBC00808FBE /* Info.plist in Resources */,
 				C257841D1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257843C1C739BBC00808FBE /* Info.plist in Resources */,
-				C25786571C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784331C739BBC00808FBE /* Info.plist in Resources */,
 				C25785401C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784AE1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257864F1C739BBC00808FBE /* Info.plist in Resources */,
 				C25785A11C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257849C1C739BBC00808FBE /* Main.storyboard in Resources */,
-				C25786211C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784CC1C739BBC00808FBE /* Info.plist in Resources */,
 				C25783E71C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786031C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C257856D1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257869C1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25784A71C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257853D1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786461C739BBC00808FBE /* Info.plist in Resources */,
 				C257844E1C739BBC00808FBE /* Info.plist in Resources */,
@@ -3048,16 +2811,12 @@
 				C257845C1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785A41C739BBC00808FBE /* Info.plist in Resources */,
 				C25784921C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25784951C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785461C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25785371C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257865D1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257840C1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257859B1C739BBC00808FBE /* Info.plist in Resources */,
-				C257845F1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257864C1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257849B1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25784EF1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257850A1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784961C739BBC00808FBE /* Info.plist in Resources */,
 				C25784F51C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3074,31 +2833,24 @@
 				C25785881C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785EC1C739BBC00808FBE /* Info.plist in Resources */,
 				C25785AD1C739BBC00808FBE /* Info.plist in Resources */,
-				C25784171C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784781C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257840F1C739BBC00808FBE /* Info.plist in Resources */,
 				C257858E1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785351C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25786781C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25785491C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25783F31C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257847A1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257852C1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785141C739BBC00808FBE /* Info.plist in Resources */,
 				C25785E01C739BBC00808FBE /* Main.storyboard in Resources */,
-				C25785251C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784141C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786701C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25783EA1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785971C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784841C739BBC00808FBE /* Info.plist in Resources */,
-				C25785131C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25786541C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785F21C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25786671C739BBC00808FBE /* Main.storyboard in Resources */,
-				C257860F1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25786181C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25784291C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784D11C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257861F1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784301C739BBC00808FBE /* Main.storyboard in Resources */,
@@ -3108,10 +2860,8 @@
 				C25785B61C739BBC00808FBE /* Info.plist in Resources */,
 				C257860D1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257866F1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25785911C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257863D1C739BBC00808FBE /* Info.plist in Resources */,
 				C257846F1C739BBC00808FBE /* Main.storyboard in Resources */,
-				C257855B1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257869D1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257848A1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784D51C739BBC00808FBE /* Info.plist in Resources */,
@@ -3125,7 +2875,6 @@
 				C25786841C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785521C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257859A1C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25786331C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257865E1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25786821C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785F11C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3151,7 +2900,6 @@
 				C25785F51C739BBC00808FBE /* Info.plist in Resources */,
 				C25786161C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785591C739BBC00808FBE /* Main.storyboard in Resources */,
-				C25786691C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785CE1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785471C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785A91C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3160,7 +2908,6 @@
 				C257846E1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784C21C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785801C739BBC00808FBE /* Info.plist in Resources */,
-				C257868D1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257851A1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785231C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784531C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3168,12 +2915,9 @@
 				C25784DA1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786341C739BBC00808FBE /* Info.plist in Resources */,
 				C257851C1C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25785FD1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785341C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785BF1C739BBC00808FBE /* Info.plist in Resources */,
-				C257867B1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784C01C739BBC00808FBE /* Main.storyboard in Resources */,
-				C257843B1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25783FC1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785611C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784811C739BBC00808FBE /* Main.storyboard in Resources */,
@@ -3195,28 +2939,22 @@
 				C257862A1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25786281C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785761C739BBC00808FBE /* Images.xcassets in Resources */,
-				C25785C71C739BBC00808FBE /* Images.xcassets in Resources */,
 				F47029FB1A7F27DB00E30A3C /* Main.storyboard in Resources */,
 				C257848C1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785861C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785A01C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784C91C739BBC00808FBE /* Main.storyboard in Resources */,
-				C25785A31C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257852F1C739BBC00808FBE /* Info.plist in Resources */,
-				C25785EB1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785D61C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257856E1C739BBC00808FBE /* Info.plist in Resources */,
-				C25785011C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784721C739BBC00808FBE /* Info.plist in Resources */,
 				C257868A1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785BC1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784451C739BBC00808FBE /* Info.plist in Resources */,
 				C25783FA1C739BBC00808FBE /* Main.storyboard in Resources */,
-				C25784831C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784651C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784D41C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785FA1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25784711C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785381C739BBC00808FBE /* Info.plist in Resources */,
 				C25784F01C739BBC00808FBE /* Info.plist in Resources */,
 				C25784381C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3225,7 +2963,6 @@
 				C25784271C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784691C739BBC00808FBE /* Info.plist in Resources */,
 				C25785AC1C739BBC00808FBE /* Images.xcassets in Resources */,
-				C257857F1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784421C739BBC00808FBE /* Main.storyboard in Resources */,
 				C257860C1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C257854F1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
@@ -3238,7 +2975,6 @@
 				C257867C1C739BBC00808FBE /* Info.plist in Resources */,
 				C257857D1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784DB1C739BBC00808FBE /* Main.storyboard in Resources */,
-				C257869F1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785C51C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25783F41C739BBC00808FBE /* Info.plist in Resources */,
 				C25786851C739BBC00808FBE /* Info.plist in Resources */,
@@ -3247,7 +2983,6 @@
 				C257861E1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786721C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257854A1C739BBC00808FBE /* Info.plist in Resources */,
-				C25784B91C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257850B1C739BBC00808FBE /* Info.plist in Resources */,
 				C25784F61C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25785D71C739BBC00808FBE /* Main.storyboard in Resources */,
@@ -3264,23 +2999,19 @@
 				C25784571C739BBC00808FBE /* Info.plist in Resources */,
 				C25784F91C739BBC00808FBE /* Info.plist in Resources */,
 				C257851D1C739BBC00808FBE /* Info.plist in Resources */,
-				C25784051C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25786061C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784771C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785BE1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25785891C739BBC00808FBE /* Info.plist in Resources */,
 				C25786311C739BBC00808FBE /* Main.storyboard in Resources */,
-				C257844D1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257852E1C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784031C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784ED1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25786191C739BBC00808FBE /* Info.plist in Resources */,
 				C25786611C739BBC00808FBE /* Info.plist in Resources */,
 				C25785851C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				C25785D91C739BBC00808FBE /* Images.xcassets in Resources */,
 				C25784BF1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785FE1C739BBC00808FBE /* Info.plist in Resources */,
-				C25785B51C739BBC00808FBE /* Images.xcassets in Resources */,
 				C257845D1C739BBC00808FBE /* Main.storyboard in Resources */,
 				C25784A41C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25785921C739BBC00808FBE /* Info.plist in Resources */,
@@ -3291,7 +3022,6 @@
 				C25784261C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25784EC1C739BBC00808FBE /* LaunchScreen.xib in Resources */,
 				C25786931C739BBC00808FBE /* LaunchScreen.xib in Resources */,
-				F47029FD1A7F27DB00E30A3C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3365,66 +3095,35 @@
 				C25784231C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784081C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785A71C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257855F1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784E51C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786481C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785171C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25784E01C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785791C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785D51C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784011C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785C01C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785001C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257846D1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786381C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784881C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785291C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784A91C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25783FF1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784871C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257860E1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784AA1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25786011C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785451C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25786111C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25786891C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785961C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257843E1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25786761C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257867D1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784B51C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785D81C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784C61C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257846C1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785AE1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786881C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785F61C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784511C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257848B1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785D21C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785BA1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C257861B1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785201C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25783EF1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786091C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257847D1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25786641C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257861C1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785281C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785DB1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786511C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784041C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784281C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786241C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257863E1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784A61C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257849D1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784AC1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785951C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786201C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784B81C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786621C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784371C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786501C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785B01C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784641C739BBC00808FBE /* AppDelegate.swift in Sources */,
@@ -3435,320 +3134,159 @@
 				C25785441C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25783ED1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257850C1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785C91C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257868F1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257858D1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257841B1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785711C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25786871C739BBC00808FBE /* MenuController.swift in Sources */,
 				F4D750181BD38F0C009E1003 /* SWRevealViewController.m in Sources */,
-				C25784DF1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785A81C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785B71C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785561C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786771C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785C21C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785941C739BBC00808FBE /* MenuController.swift in Sources */,
-				C257842C1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257852D1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257856C1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257848E1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784BB1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				F4702A181A7F351C00E30A3C /* MenuController.swift in Sources */,
-				C25785361C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784671C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257854C1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785EA1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785601C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257862F1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785571C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257844F1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257867F1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786591C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785EE1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785B81C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784FB1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785931C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784F21C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785061C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C257864D1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785241C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786981C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25786251C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785671C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784EB1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785051C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786371C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25786401C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785781C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257842E1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257842B1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786521C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785821C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785991C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784131C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785161C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257851E1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785631C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785F71C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785271C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784071C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25783F21C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784D91C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25786321C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257863F1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785C61C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257853C1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257854B1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785681C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25784991C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785091C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785181C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785E61C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785CC1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785211C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786711C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784161C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257852A1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784481C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784B31C739BBC00808FBE /* MenuController.swift in Sources */,
-				C257845E1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786001C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784621C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785CF1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786361C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784491C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784AB1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257855A1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784F11C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784401C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785301C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784CD1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25786131C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786491C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785D31C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257863B1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785E11C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784611C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786141C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784C51C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785311C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784761C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784CE1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257861A1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257841C1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785701C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785A51C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257860A1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784E21C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786831C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257855E1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784EA1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784111C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785BD1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784741C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784091C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786911C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784A01C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784E11C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784F71C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785421C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784E81C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257856F1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257849A1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784EE1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784521C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785E51C739BBC00808FBE /* MenuController.swift in Sources */,
-				C257857B1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257869E1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784121C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25784251C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25786471C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785FF1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784BD1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785151C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784751C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25786051C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257846A1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784361C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257841A1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257846B1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25786411C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257867A1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257866D1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				F47029F61A7F27DB00E30A3C /* AppDelegate.swift in Sources */,
 				C25784BE1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784D01C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784221C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786751C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25783F71C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257851F1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784551C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784A11C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25786901C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257866E1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785541C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25783FE1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257853A1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25786021C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				F491E7531A7F7DF20026528E /* MapViewController.swift in Sources */,
-				C257843A1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784701C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786171C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784311C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257868C1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786121C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784BC1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25783EC1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785DC1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785EF1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785ED1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257869A1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785E71C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786951C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785321C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25786921C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784901C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785C31C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785841C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C257845A1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785481C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257855D1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257869B1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25786231C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25783EE1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785751C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257851B1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785FC1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784FD1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784731C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784911C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257853B1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784461C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25783E61C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784471C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784E91C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785391C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257845B1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784971C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257865F1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257860B1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784D31C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25785AF1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784B41C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25783F61C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785E41C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785041C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785F91C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785C11C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257853F1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257850D1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784341C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784F41C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257866C1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257850E1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785811C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25783E91C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25786531C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785121C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785A21C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784FA1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784591C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257865C1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785B41C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784F31C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257847F1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784D81C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				49F84EEB1C7372380012DFA5 /* CameraViewController.swift in Sources */,
-				C257866B1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785661C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784431C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786631C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784C41C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25786801C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C257840A1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784501C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785831C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				F491E7551A7F7E010026528E /* ProfileViewController.swift in Sources */,
 				C25786991C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257859D1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25786351C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784581C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784A31C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257865B1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785A61C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25785CB1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25783F81C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784FC1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257858C1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25786291C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785CA1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785F31C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784001C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25785511C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784981C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784821C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785B11C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257843F1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257844C1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257862C1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257862D1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784941C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257858A1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25784861C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785721C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785AB1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786741C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257867E1C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25784791C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786081C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785871C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784DC1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785331C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25786261C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25784631C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786441C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257854E1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25784D71C739BBC00808FBE /* MenuController.swift in Sources */,
 				C25785F01C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785691C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257854D1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257859E1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C257847C1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257842D1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257859F1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C25785551C739BBC00808FBE /* MenuController.swift in Sources */,
 				C257840D1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25783F51C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784241C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257861D1C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C257843D1C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25786561C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784101C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C257841F1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25784CF1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25786681C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25786861C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C257850F1C739BBC00808FBE /* AppDelegate.swift in Sources */,
 				C257847E1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25785DD1C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25784AF1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C25785031C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25785901C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784D61C739BBC00808FBE /* MapViewController.swift in Sources */,
-				C25786651C739BBC00808FBE /* AppDelegate.swift in Sources */,
-				C25785B91C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25784851C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25784A21C739BBC00808FBE /* ProfileViewController.swift in Sources */,
 				C25783FB1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784C11C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C257859C1C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785D41C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C25784CA1C739BBC00808FBE /* CameraViewController.swift in Sources */,
-				C257865A1C739BBC00808FBE /* MenuController.swift in Sources */,
-				C25784191C739BBC00808FBE /* MapViewController.swift in Sources */,
 				C25785F81C739BBC00808FBE /* ProfileViewController.swift in Sources */,
-				C257857E1C739BBC00808FBE /* CameraViewController.swift in Sources */,
 				C25784B21C739BBC00808FBE /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

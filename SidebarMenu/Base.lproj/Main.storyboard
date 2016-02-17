@@ -66,7 +66,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7TD-bi-rsw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2546.5" y="78.5"/>
+            <point key="canvasLocation" x="2577" y="51"/>
         </scene>
         <!--Camera-->
         <scene sceneID="QT1-Gj-Kqg">
@@ -218,7 +218,7 @@
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.94085192680358887" green="0.94903725385665894" blue="0.95307987928390503" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <connections>
-                                            <segue destination="0J7-Hk-VFu" kind="custom" trigger="accessoryAction" customClass="SWRevealViewControllerSeguePushController" id="Mxw-0m-KQt"/>
+                                            <segue destination="0J7-Hk-VFu" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="b63-ns-eOi"/>
                                         </connections>
                                     </tableViewCell>
                                 </cells>
@@ -277,6 +277,7 @@
             </objects>
             <point key="canvasLocation" x="1764.5" y="78.5"/>
         </scene>
+<<<<<<< HEAD
         <!--Profile View Controller-->
         <scene sceneID="KPM-Xn-vnn">
             <objects>
@@ -286,10 +287,22 @@
                         <viewControllerLayoutGuide type="bottom" id="OGg-Gf-n1R"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="1sF-1I-Lln">
+=======
+        <!--Profile-->
+        <scene sceneID="yCp-Wv-509">
+            <objects>
+                <viewController id="sE8-Cy-yWP" customClass="ProfileViewController" customModule="TeamPlusPlus1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="IPC-hk-0Qs"/>
+                        <viewControllerLayoutGuide type="bottom" id="VBi-dM-ohh"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="pBu-io-TV5">
+>>>>>>> parent of eaf9207... Profile
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+<<<<<<< HEAD
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="TEG-JX-HB4">
                         <barButtonItem key="leftBarButtonItem" image="menu" id="oeV-JP-BuL">
@@ -305,6 +318,21 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OfL-U2-U56" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2546.5" y="894.5"/>
+=======
+                    <navigationItem key="navigationItem" title="Profile" id="cfc-BV-ZDE">
+                        <barButtonItem key="leftBarButtonItem" image="menu" id="okk-0h-9oo">
+                            <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="menuButton" destination="okk-0h-9oo" id="XbV-1C-7L9"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ne9-ho-vGn" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2577" y="780"/>
+>>>>>>> parent of eaf9207... Profile
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="UtP-zp-P1I">
@@ -318,12 +346,16 @@
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="1gN-Fe-IYN" kind="relationship" relationship="rootViewController" id="fcB-G0-xUD"/>
+                        <segue destination="sE8-Cy-yWP" kind="relationship" relationship="rootViewController" id="mUc-WM-FVw"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="M9g-Pf-VqC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1764.5" y="894.5"/>
+=======
+            <point key="canvasLocation" x="1765" y="780"/>
+>>>>>>> parent of 38868d6... Profile fix
         </scene>
         <!--Menu Controller-->
         <scene sceneID="WPB-H1-2OU">
@@ -493,6 +525,6 @@
         <image name="tag" width="1024" height="1024"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="foL-zu-uHU"/>
+        <segue reference="tWZ-CD-OTO"/>
     </inferredMetricsTieBreakers>
 </document>
